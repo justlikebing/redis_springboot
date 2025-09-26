@@ -8,7 +8,7 @@ class SpringDataRedisExampleApplicationTests {
 
 	@Test
 	void contextLoads() {
-		//this is a sample test class
+		//this is a sample test class for redis 
 	}
 
 }
